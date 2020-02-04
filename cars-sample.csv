@@ -1,4 +1,4 @@
-number,Car,Manufacturer,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model.Year,Origin
+number,Car,Manufacturer,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model_Year,Origin
 5,torino,ford,17,8,302,140,3449,10.5,70,American
 6,galaxie 500,ford,15,8,429,198,4341,10,70,American
 21,corona mark ii,toyota,24,4,113,95,2372,15,70,Japanese
